@@ -1,0 +1,12 @@
+.env
+secret_vault/
+__pycache__/
+*.db
+*.log
+.bash_history
+.bashrc
+storage/
+*.mp3
+.cache/
+.config/
+.config/
